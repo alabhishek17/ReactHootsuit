@@ -1,0 +1,6 @@
+function Img(){
+    return(<div>
+    <img src="Place your exported logo image (e.g., logo.png) inside the public folder." alt"logo" />
+    </div>)
+}
+export default Img;

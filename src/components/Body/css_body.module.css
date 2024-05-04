@@ -1,0 +1,25 @@
+.top{
+    align-items: center;
+    text-align: center;
+    background-color: darkblue;
+    color: #ffff;
+    padding: 20px;
+    line-height: 1.5rem;
+    height: 300px;
+    
+}
+.top button{
+    background-color: darkgreen;
+    color: #ffff;
+    padding: 10px;
+    margin-top: 20px;
+}
+.bottom{
+    display: flex;
+    padding: 40px;
+    justify-content: space-between;
+    
+}
+.card{
+text-align: center;
+}

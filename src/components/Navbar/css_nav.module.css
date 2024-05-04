@@ -1,0 +1,25 @@
+.navLi{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    align-items: center;
+}
+.navLi h3{
+    float: right;
+}
+.Nmiddle{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+.Nleft{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.Nleft button{
+    background-color: darkgreen;
+    color: #ffff;
+    padding: 10px;
+}
